@@ -1,3 +1,5 @@
+//heap sort using max heap
+
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
