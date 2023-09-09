@@ -1,4 +1,4 @@
-// Implementation of a Stack using an Array
+// Implementation of a stack using an array
 
 #include <iostream>
 #include <chrono>
