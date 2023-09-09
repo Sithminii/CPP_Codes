@@ -1,3 +1,4 @@
+//Implementation of a stack using linked lists
 
 #include <iostream>
 #include <chrono> // for timing
